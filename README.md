@@ -8,4 +8,4 @@ The project implements four phases:
 3. Abstract Syntax Tree
 4. Symbol/Semantic Analysis
 
-Contributor: subamanis & Giannis Baltas
+Contributors: subamanis & Giannis Baltas
